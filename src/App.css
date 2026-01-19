@@ -26,9 +26,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 120px;
+  height: 100px;
   width: auto;
-  margin: 2rem;
+  margin: 0.5rem;
 
   font-family: "Poppins", sans-serif;
   font-size: 1.6em;
